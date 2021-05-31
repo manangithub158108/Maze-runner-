@@ -1,2 +1,2 @@
-# Maze-runner-
-In this game you need to finish the. light blue colored line, ALL THE BEST !!
+# p5.play-boilerplate
+Boiler plate for p5.play
